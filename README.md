@@ -38,6 +38,12 @@ The author developed this project for study and personal satisfaction using lega
 
 The binary package includes manuals, compatibility notes, release notes and the changelog. The runtime executable is permanently named `A360RF26.XEX`.
 
+## Source access and community mirrors
+
+Access to the source repositories is available on request to recognised community outlets, preservation projects, developers and relevant specialist sites. Send requests to `xrest@hotmail.com`.
+
+Specialist sites and community archives are welcome to mirror the clean binary package. If you decide to offer it for download, we would greatly appreciate a short email to `xrest@hotmail.com` with the public location. No paperwork or ceremonial floppy disk is required; we would simply like to know where the project has found a home.
+
 ## Credits and license
 
 Core and port lineage: Bernd Schmidt, Toni Wilen, Richard Drummond, Mustafa "GnoStiC" Tufan, Lantus and their contributors. Amiga 360 Refresh 2026 - Feature Edition by Vanni B. Monti-Condesnitt.
