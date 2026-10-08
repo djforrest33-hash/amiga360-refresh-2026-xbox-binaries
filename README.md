@@ -10,17 +10,26 @@
 
 This is a separate community project built from the Amiga360 lineage. It does not replace Lantus' original release; it is what happened when somebody looked at a fifteen-year-old emulator and said, “one small refresh should be easy.”
 
-## What changed
+## What the Refresh actually refreshes
 
-- reliable floppy, ZIP and M3U handling with a 20-slot disk swapper;
-- DH0–DH3 hardfile mounting, saved-profile recovery and shared `Software` folders;
-- read-only CD0 ISO support through the resident `uaescsi.device` bridge;
-- curated A500, A1200, A1200 WHDLoad and fast A4000 profiles;
-- Picasso96 modes up to 1024×768;
-- paused Amiga frame behind every GUI page after emulation starts, with smooth transitions;
-- themes, previews, favourites, savestates and GUI music;
-- labelled activity lamps for CPU, FPS, sound, DH0, CD and DF0–DF3;
-- three controller modes: Mixed Legacy, Joystick Port 2 and Mouse Port 1.
+This is considerably more than a new skin and a heroic version string. The Refresh adds:
+
+- validated Workbench and AmigaOS 3.9 operation, including Picasso96 modes up to 1024×768;
+- curated A500, A1200, A1200 WHDLoad and fast A4000 profiles with persistent machine, video and GUI options;
+- an Xbox-pad virtual keyboard plus direct Amiga bindings for Space, F10, Print Screen and the configured WHDLoad exit key;
+- correctly separated fire and mouse-button mappings, configurable autofire and two-controller Joy+Joy support;
+- three selectable controller modes: Mixed Legacy, Joystick Port 2 and Mouse Port 1, so games, trainers and Workbench stop fighting over the same button;
+- reliable ADF, ADZ, DMS, FDI, compatible IPF, ZIP and M3U handling, four floppy drives and a naturally sorted 20-slot disk swapper controlled with L3/R3;
+- deterministic DH0–DH3 hardfile reconstruction, safer DH0 boot handling, saved-profile recovery and shared `Software` directory mounting;
+- read-only CD0 ISO support through the resident `uaescsi.device` bridge, plus a separate optional tools disc;
+- configuration and HDF previews, media artwork, favourites and cached library navigation for large USB collections;
+- savestates with screenshots, paired cleanup and restoration of the active multidisk position;
+- a Classic/Dark themed GUI, persistent settings and a GUI-only MP3/WMA player with volume, shuffle and library refresh;
+- the paused Amiga frame behind every GUI page after emulation starts, with smooth entry and exit transitions;
+- labelled activity lamps for CPU workload, live FPS, sound, DH0, CD and DF0–DF3;
+- repeated-reset, GUI-return and HDF-startup fixes tested on real Xbox 360 hardware.
+
+The historical P-UAE core remains the historical core. Everything around it received the months-long treatment required to make a fifteen-year-old port behave like a console application instead of an archaeological discovery with a joypad attached.
 
 ## Install
 
