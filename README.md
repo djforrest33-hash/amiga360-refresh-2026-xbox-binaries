@@ -14,7 +14,7 @@ This is a separate community project built from the Amiga360 lineage. It does no
 
 This is considerably more than a new skin and a heroic version string. The Refresh adds:
 
-- validated Workbench and AmigaOS 3.9 operation, including Picasso96 modes up to 1024×768;
+- validated Workbench and AmigaOS 3.9 operation, including Picasso96 modes at 1024×768 and 1280×720;
 - curated A500, A1200, A1200 WHDLoad and fast A4000 profiles with persistent machine, video and GUI options;
 - an Xbox-pad virtual keyboard plus direct Amiga bindings for Space, F10, Print Screen and the configured WHDLoad exit key;
 - correctly separated fire and mouse-button mappings, configurable autofire and two-controller Joy+Joy support;
