@@ -10,6 +10,13 @@
 
 This is a separate community project built from the Amiga360 lineage. It does not replace Lantus' original release; it is what happened when somebody looked at a fifteen-year-old emulator and said, “one small refresh should be easy.”
 
+## Manual: because guessing is a feature we did not add
+
+- **[Read the complete Xbox manual online](docs/USER-MANUAL.md)**
+- **[Download the polished PDF edition](docs/Amiga360-Refresh-2026-Feature-Edition-Xbox-Manual.pdf)**
+
+It covers installation, the complete controller map, virtual keyboard, controller modes, disk swapper, profiles, AmigaOS 3.9 and Picasso96, DH0-DH3, the `Software` share, CD0, savestates, LEDs and recovery procedures. Six pages, zero archaeology degree required.
+
 ## What the Refresh actually refreshes
 
 This is considerably more than a new skin and a heroic version string. The Refresh adds:
