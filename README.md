@@ -1,3 +1,8 @@
+## Video tutorials
+
+- **[Tutorial 01 — Workbench 3.1 ClassicWB installation with Picasso96](https://www.youtube.com/watch?v=iCkOokENt08)**
+- **[Tutorial 02 — Workbench 3.1 custom iGame installation](https://www.youtube.com/watch?v=Z2JSXbjt2hU)**
+
 # Amiga 360 Refresh 2026 — Feature Edition
 
 ![Xbox 360](https://img.shields.io/badge/Xbox_360-JTAG_%2F_RGH-107C10?logo=xbox&logoColor=white)
